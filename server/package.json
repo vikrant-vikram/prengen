@@ -1,0 +1,13 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "ss",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "bikki__mauryha",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
